@@ -1,0 +1,5 @@
+title: Johanna Kinsler portfolio
+logo: profile_picture.jpg
+remote_theme: pages-themes/minima@v2.5.1
+plugins:
+- jekyll
