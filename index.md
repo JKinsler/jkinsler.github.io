@@ -2,7 +2,7 @@
 ![profile_picture](profile_picture.jpg)
 
 ## Data Engineer
-I am a data engineer with four years experience building custom cloud platforms and data pipelines.
+I building custom cloud platforms, data pipelines, and backend tools.
 
 My expertise includes cloud platform tools, programming languages, database languages, scripting, data modeling and data analysis.
 
