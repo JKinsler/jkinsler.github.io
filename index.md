@@ -16,4 +16,4 @@ Please get in touch if you have a climate project you'd like to collaborate on.
 https://jkinsler.github.io/notebooks/max_temp_san_francisco.html
 
 ### Project 2 - Time series analysis of Kern River discharge
-https://jkinsler.github.io/notebooks/time-series-data-kern-river.html
+https://jkinsler.github.io/notebooks/time-series-data-kern-river-onyx.html
