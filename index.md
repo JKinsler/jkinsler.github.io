@@ -14,4 +14,6 @@ Please get in touch if you have a climate project you'd like to collaborate on.
 ## Projects
 ### Project 1 - Temperature over time in San Francisco
 https://jkinsler.github.io/notebooks/max_temp_san_francisco.html
-https://jkinsler.github.io/notebooks/time-series-data-kernville.html
+
+### Project 2 - Time series analysis of Kern River discharge
+https://jkinsler.github.io/notebooks/time-series-data-kern-river.html
